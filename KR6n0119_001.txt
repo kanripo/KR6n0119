@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:36.997236
+#+DATE: 2015-08-30 20:58:38.164141
 #+TITLE: 掌中論
 #+PROPERTY: CBETA_ID T31n1621
 #+PROPERTY: ID KR6n0119
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1621
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0119_T_000-0884b>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0119_T_001-0884b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1621¶
-
- 《掌中論》一卷¶
+No. 1621¶
+《掌中論》一卷¶
 ¶
 陳那菩薩造¶
 三藏法師義淨奉　制譯¶
