@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 掌中論
+#+DATE: 2015-08-30 20:58:37.179540
+#+PROPERTY: JUAN 0
